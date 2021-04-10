@@ -74,9 +74,9 @@
 
 # Deployment of application
 
- To run a project, please follow the link [Plan Surfing](https://hakeem235.github.io/Plan-surfing/)
+ To run a project, please follow the link [Plan Surfing](https://sheymanidze.github.io/Plan-surfing/)
 
- * GitHub Repo link [GitHub Repo](https://github.com/hakeem235/Weather-Dashboard)
+ * GitHub Repo link [GitHub Repo](https://github.com/sheymanidze/Plan-surfing)
 
 
 # Comments
