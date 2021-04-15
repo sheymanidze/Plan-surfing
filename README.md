@@ -9,7 +9,7 @@
  * News Section
  * Daily Tasks Section
  * Weather Section
- * Screenhots
+ * Screenshots
  * Deployment of application
  * Comments
 
